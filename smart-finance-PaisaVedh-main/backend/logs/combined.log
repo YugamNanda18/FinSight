@@ -1,0 +1,454 @@
+2026-06-13 07:34:22 [INFO]: Server running on port 5000  
+2026-06-13 07:34:22 [INFO]: Environment: development  
+2026-06-13 07:34:22 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:22 [INFO]: MongoDB Connected: localhost  
+2026-06-13 07:34:22 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:22 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:22 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:22 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:23 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:23 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:24 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:25 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:25 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:26 [ERROR]: Redis error: 
+AggregateError
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7) {"code":"ECONNREFUSED"}
+2026-06-13 07:34:27 [ERROR]: Redis max reconnection attempts reached  
+2026-06-13 07:35:08 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:35:08 [INFO]: Server running on port 5000  
+2026-06-13 07:35:08 [INFO]: Environment: development  
+2026-06-13 07:35:08 [INFO]: MongoDB Connected: localhost  
+2026-06-13 07:35:26 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:35:26 [INFO]: Server running on port 5000  
+2026-06-13 07:35:26 [INFO]: Environment: development  
+2026-06-13 07:35:26 [INFO]: MongoDB Connected: localhost  
+2026-06-13 07:37:02 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:37:02 [INFO]: Server running on port 5001  
+2026-06-13 07:37:02 [INFO]: Environment: development  
+2026-06-13 07:37:02 [INFO]: MongoDB Connected: localhost  
+2026-06-13 07:37:35 [ERROR]: Error: Not Found - /favicon.ico  
+2026-06-13 07:37:35 [ERROR]: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\ARYAN\.vscode\PaisaVedh\backend\src\middleware\error.middleware.ts:55:17)
+    at Layer.handle [as handle_request] (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:286:9  
+2026-06-13 07:39:13 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:39:13 [INFO]: Server running on port 5001  
+2026-06-13 07:39:13 [INFO]: Environment: development  
+2026-06-13 07:39:14 [INFO]: MongoDB Connected: localhost  
+2026-06-13 07:39:52 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:39:52 [INFO]: Server running on port 5001  
+2026-06-13 07:39:52 [INFO]: Environment: development  
+2026-06-13 07:39:52 [INFO]: MongoDB Connected: localhost  
+2026-06-13 07:42:10 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:42:10 [INFO]: Server running on port 5002  
+2026-06-13 07:42:10 [INFO]: Environment: development  
+2026-06-13 07:42:10 [INFO]: MongoDB Connected: localhost  
+2026-06-13 07:42:49 [ERROR]: Error: Not Found - /favicon.ico  
+2026-06-13 07:42:49 [ERROR]: Error: Not Found - /favicon.ico
+    at notFound (C:\Users\ARYAN\.vscode\PaisaVedh\backend\src\middleware\error.middleware.ts:55:17)
+    at Layer.handle [as handle_request] (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:286:9  
+2026-06-13 07:44:38 [ERROR]: Error: Not Found - /api/auth/login  
+2026-06-13 07:44:38 [ERROR]: Error: Not Found - /api/auth/login
+    at notFound (C:\Users\ARYAN\.vscode\PaisaVedh\backend\src\middleware\error.middleware.ts:55:17)
+    at Layer.handle [as handle_request] (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:280:10)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express-rate-limit\dist\index.cjs:807:7
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express-rate-limit\dist\index.cjs:691:5  
+2026-06-13 07:45:10 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:45:10 [INFO]: Server running on port 5002  
+2026-06-13 07:45:10 [INFO]: Environment: development  
+2026-06-13 07:45:10 [INFO]: MongoDB Connected: localhost  
+2026-06-13 07:48:18 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:48:18 [INFO]: Server running on port 5002  
+2026-06-13 07:48:18 [INFO]: Environment: development  
+2026-06-13 07:48:19 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-13 07:48:44 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:48:44 [INFO]: Server running on port 5002  
+2026-06-13 07:48:44 [INFO]: Environment: development  
+2026-06-13 07:48:45 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-13 07:49:38 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:49:38 [INFO]: Server running on port 5002  
+2026-06-13 07:49:38 [INFO]: Environment: development  
+2026-06-13 07:49:39 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-13 07:49:41 [WARN]: MongoDB disconnected  
+2026-06-13 07:53:15 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 07:53:16 [INFO]: Server running on port 5002  
+2026-06-13 07:53:16 [INFO]: Environment: development  
+2026-06-13 07:53:16 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-13 08:02:37 [WARN]: MongoDB disconnected  
+2026-06-13 08:09:58 [WARN]: MongoDB disconnected  
+2026-06-13 08:10:40 [WARN]: MongoDB disconnected  
+2026-06-13 08:49:05 [WARN]: MongoDB disconnected  
+2026-06-13 08:56:56 [WARN]: MongoDB disconnected  
+2026-06-13 09:03:18 [WARN]: MongoDB disconnected  
+2026-06-13 09:09:49 [WARN]: MongoDB disconnected  
+2026-06-13 09:17:00 [WARN]: MongoDB disconnected  
+2026-06-13 14:48:50 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 14:48:50 [INFO]: Server running on port 5002  
+2026-06-13 14:48:50 [INFO]: Environment: development  
+2026-06-13 14:48:51 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-13 14:55:38 [WARN]: MongoDB disconnected  
+2026-06-13 15:04:29 [WARN]: MongoDB disconnected  
+2026-06-13 15:10:21 [WARN]: MongoDB disconnected  
+2026-06-13 15:14:35 [WARN]: MongoDB disconnected  
+2026-06-13 15:36:33 [WARN]: MongoDB disconnected  
+2026-06-13 15:45:25 [WARN]: MongoDB disconnected  
+2026-06-13 15:52:26 [WARN]: MongoDB disconnected  
+2026-06-13 16:01:38 [WARN]: MongoDB disconnected  
+2026-06-13 16:08:29 [WARN]: MongoDB disconnected  
+2026-06-13 16:15:21 [WARN]: MongoDB disconnected  
+2026-06-13 16:24:55 [WARN]: MongoDB disconnected  
+2026-06-13 16:32:37 [WARN]: MongoDB disconnected  
+2026-06-13 16:39:07 [WARN]: MongoDB disconnected  
+2026-06-13 16:39:40 [ERROR]: Create budget error: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 } 
+MongoServerError: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 }
+    at InsertOneOperation.handleOk (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\insert.ts:79:13)
+    at tryOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:290:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async executeOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:119:12)
+    at async Collection.insertOne (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\collection.ts:294:12) {"errorLabelSet":{},"errorResponse":{"index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: \"Food & Dining\", month: 5, year: 2026 }","keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}},"index":0,"code":11000,"keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}}
+2026-06-13 16:39:42 [ERROR]: Create budget error: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 } 
+MongoServerError: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 }
+    at InsertOneOperation.handleOk (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\insert.ts:79:13)
+    at tryOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:290:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async executeOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:119:12)
+    at async Collection.insertOne (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\collection.ts:294:12) {"errorLabelSet":{},"errorResponse":{"index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: \"Food & Dining\", month: 5, year: 2026 }","keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}},"index":0,"code":11000,"keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}}
+2026-06-13 16:40:12 [ERROR]: Create budget error: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 } 
+MongoServerError: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 }
+    at InsertOneOperation.handleOk (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\insert.ts:79:13)
+    at tryOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:290:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async executeOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:119:12)
+    at async Collection.insertOne (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\collection.ts:294:12) {"errorLabelSet":{},"errorResponse":{"index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: \"Food & Dining\", month: 5, year: 2026 }","keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}},"index":0,"code":11000,"keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}}
+2026-06-13 16:42:19 [ERROR]: Create budget error: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 } 
+MongoServerError: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 }
+    at InsertOneOperation.handleOk (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\insert.ts:79:13)
+    at tryOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:290:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async executeOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:119:12)
+    at async Collection.insertOne (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\collection.ts:294:12) {"errorLabelSet":{},"errorResponse":{"index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: \"Food & Dining\", month: 5, year: 2026 }","keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}},"index":0,"code":11000,"keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}}
+2026-06-13 16:44:59 [WARN]: MongoDB disconnected  
+2026-06-13 16:45:46 [ERROR]: Create budget error: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 } 
+MongoServerError: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 }
+    at InsertOneOperation.handleOk (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\insert.ts:79:13)
+    at tryOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:290:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async executeOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:119:12)
+    at async Collection.insertOne (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\collection.ts:294:12) {"errorLabelSet":{},"errorResponse":{"index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: \"Food & Dining\", month: 5, year: 2026 }","keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}},"index":0,"code":11000,"keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}}
+2026-06-13 16:49:49 [ERROR]: Create budget error: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 } 
+MongoServerError: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 }
+    at InsertOneOperation.handleOk (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\insert.ts:79:13)
+    at tryOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:290:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async executeOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:119:12)
+    at async Collection.insertOne (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\collection.ts:294:12) {"errorLabelSet":{},"errorResponse":{"index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: \"Food & Dining\", month: 5, year: 2026 }","keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}},"index":0,"code":11000,"keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}}
+2026-06-13 16:51:40 [WARN]: MongoDB disconnected  
+2026-06-13 16:54:03 [WARN]: MongoDB disconnected  
+2026-06-13 17:02:17 [WARN]: MongoDB disconnected  
+2026-06-13 17:06:00 [ERROR]: Create budget error: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Shopping", month: 5, year: 2026 } 
+MongoServerError: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Shopping", month: 5, year: 2026 }
+    at InsertOneOperation.handleOk (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\insert.ts:79:13)
+    at tryOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:290:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async executeOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:119:12)
+    at async Collection.insertOne (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\collection.ts:294:12) {"errorLabelSet":{},"errorResponse":{"index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: \"Shopping\", month: 5, year: 2026 }","keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Shopping","month":5,"year":2026}},"index":0,"code":11000,"keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Shopping","month":5,"year":2026}}
+2026-06-13 17:08:39 [WARN]: MongoDB disconnected  
+2026-06-13 17:09:37 [ERROR]: Create budget error: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Shopping", month: 5, year: 2026 } 
+MongoServerError: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Shopping", month: 5, year: 2026 }
+    at InsertOneOperation.handleOk (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\insert.ts:79:13)
+    at tryOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:290:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async executeOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:119:12)
+    at async Collection.insertOne (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\collection.ts:294:12) {"errorLabelSet":{},"errorResponse":{"index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: \"Shopping\", month: 5, year: 2026 }","keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Shopping","month":5,"year":2026}},"index":0,"code":11000,"keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Shopping","month":5,"year":2026}}
+2026-06-13 17:14:34 [ERROR]: Create budget error: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 } 
+MongoServerError: E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: "Food & Dining", month: 5, year: 2026 }
+    at InsertOneOperation.handleOk (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\insert.ts:79:13)
+    at tryOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:290:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async executeOperation (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\operations\execute_operation.ts:119:12)
+    at async Collection.insertOne (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongodb\src\collection.ts:294:12) {"errorLabelSet":{},"errorResponse":{"index":0,"code":11000,"errmsg":"E11000 duplicate key error collection: test.budgets index: userId_1_category_1_month_1_year_1 dup key: { userId: ObjectId('6a2cc9814449d693473ae8d8'), category: \"Food & Dining\", month: 5, year: 2026 }","keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}},"index":0,"code":11000,"keyPattern":{"userId":1,"category":1,"month":1,"year":1},"keyValue":{"userId":"6a2cc9814449d693473ae8d8","category":"Food & Dining","month":5,"year":2026}}
+2026-06-13 17:16:56 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 17:16:56 [INFO]: Server running on port 5002  
+2026-06-13 17:16:56 [INFO]: Environment: development  
+2026-06-13 17:16:57 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-13 17:18:16 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 17:18:16 [INFO]: Server running on port 5002  
+2026-06-13 17:18:16 [INFO]: Environment: development  
+2026-06-13 17:18:17 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-13 17:19:02 [ERROR]: Create budget error: Budget validation failed: category: `Food & Dining` is not a valid enum value for path `category`. 
+ValidationError: Budget validation failed: category: `Food & Dining` is not a valid enum value for path `category`.
+    at model.Document.invalidate (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongoose\lib\document.js:3381:32)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongoose\lib\document.js:3142:17
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\mongoose\lib\schemaType.js:1443:9
+    at processTicksAndRejections (node:internal/process/task_queues:85:11) {"errors":{"category":{"name":"ValidatorError","message":"`Food & Dining` is not a valid enum value for path `category`.","properties":{"message":"`Food & Dining` is not a valid enum value for path `category`.","type":"enum","enumValues":["food","groceries","shopping","entertainment","transportation","utilities","healthcare","education","travel","rent","insurance","subscriptions","other"],"path":"category","value":"Food & Dining","length":13},"kind":"enum","path":"category","value":"Food & Dining"}},"_message":"Budget validation failed"}
+2026-06-13 17:26:08 [WARN]: MongoDB disconnected  
+2026-06-13 17:34:56 [WARN]: MongoDB disconnected  
+2026-06-13 17:39:00 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-13 17:39:00 [INFO]: Server running on port 5002  
+2026-06-13 17:39:00 [INFO]: Environment: development  
+2026-06-14 17:46:16 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-14 17:46:16 [INFO]: Server running on port 5002  
+2026-06-14 17:46:16 [INFO]: Environment: development  
+2026-06-14 17:46:17 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-14 17:47:16 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-14 17:47:17 [INFO]: Server running on port 5002  
+2026-06-14 17:47:17 [INFO]: Environment: development  
+2026-06-14 17:47:18 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-14 17:49:28 [WARN]: MongoDB disconnected  
+2026-06-15 08:44:06 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-15 08:44:06 [INFO]: Server running on port 5002  
+2026-06-15 08:44:06 [INFO]: Environment: development  
+2026-06-15 08:44:07 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-15 08:49:50 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-15 08:49:50 [INFO]: Server running on port 5002  
+2026-06-15 08:49:50 [INFO]: Environment: development  
+2026-06-15 08:49:51 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-15 14:44:16 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-15 14:44:17 [INFO]: Server running on port 5002  
+2026-06-15 14:44:17 [INFO]: Environment: development  
+2026-06-15 14:44:18 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-15 15:02:31 [WARN]: MongoDB disconnected  
+2026-06-15 15:49:20 [WARN]: MongoDB disconnected  
+2026-06-15 16:09:05 [WARN]: MongoDB disconnected  
+2026-06-15 16:14:57 [WARN]: MongoDB disconnected  
+2026-06-15 16:16:41 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-15 16:16:41 [INFO]: Server running on port 5002  
+2026-06-15 16:16:41 [INFO]: Environment: development  
+2026-06-15 16:16:44 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-15 16:16:51 [WARN]: MongoDB disconnected  
+2026-06-15 16:25:24 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-15 16:25:24 [INFO]: Server running on port 5002  
+2026-06-15 16:25:24 [INFO]: Environment: development  
+2026-06-15 16:25:25 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-15 16:30:26 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-15 16:30:26 [INFO]: Server running on port 5002  
+2026-06-15 16:30:26 [INFO]: Environment: development  
+2026-06-15 16:30:27 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-15 19:33:00 [INFO]: Using in-memory cache (Redis not required)  
+2026-06-15 19:33:00 [INFO]: Server running on port 5002  
+2026-06-15 19:33:00 [INFO]: Environment: development  
+2026-06-15 19:33:00 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-02.om0zmzi.mongodb.net  
+2026-06-15 19:40:14 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 19:40:14 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 19:40:14 [INFO]: 📍 Environment: development  
+2026-06-15 19:40:14 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-15 19:40:14 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-15 19:40:14 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-01.om0zmzi.mongodb.net  
+2026-06-15 19:42:50 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 19:42:50 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 19:42:50 [INFO]: 📍 Environment: development  
+2026-06-15 19:42:50 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-15 19:42:50 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-15 19:42:50 [INFO]: 🏠 Root: http://localhost:5002/  
+2026-06-15 19:42:51 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-02.om0zmzi.mongodb.net  
+2026-06-15 19:43:02 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 19:43:02 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 19:43:02 [INFO]: 📍 Environment: development  
+2026-06-15 19:43:02 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-15 19:43:02 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-15 19:43:02 [INFO]: 🏠 Root: http://localhost:5002/  
+2026-06-15 19:43:03 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-02.om0zmzi.mongodb.net  
+2026-06-15 20:05:47 [WARN]: MongoDB disconnected  
+2026-06-15 20:15:42 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 20:15:42 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 20:15:42 [INFO]: 📍 Environment: development  
+2026-06-15 20:15:42 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-15 20:15:42 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-15 20:15:42 [INFO]: 🏠 Root: http://localhost:5002/  
+2026-06-15 20:15:43 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-01.om0zmzi.mongodb.net  
+2026-06-15 20:49:03 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 20:49:03 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 20:49:03 [INFO]: 📍 Environment: development  
+2026-06-15 20:49:03 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-15 20:49:03 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-15 20:49:03 [INFO]: 🏠 Root: http://localhost:5002/  
+2026-06-15 20:49:04 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-01.om0zmzi.mongodb.net  
+2026-06-15 21:00:12 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 21:00:12 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 21:00:12 [INFO]: 📍 Environment: development  
+2026-06-15 21:00:12 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-15 21:00:12 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-15 21:00:12 [INFO]: 🏠 Root: http://localhost:5002/  
+2026-06-15 21:00:13 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-15 21:06:20 [ERROR]: Not Found - /healt
+Error: Not Found - /healt
+    at notFound (C:\Users\ARYAN\.vscode\PaisaVedh\backend\src\middleware\error.middleware.ts:6:17)
+    at Layer.handle [as handle_request] (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:286:9  
+2026-06-15 21:06:20 [ERROR]: Not Found - /favicon.ico
+Error: Not Found - /favicon.ico
+    at notFound (C:\Users\ARYAN\.vscode\PaisaVedh\backend\src\middleware\error.middleware.ts:6:17)
+    at Layer.handle [as handle_request] (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\ARYAN\.vscode\PaisaVedh\backend\node_modules\express\lib\router\index.js:286:9  
+2026-06-15 21:11:33 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 21:11:33 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 21:11:33 [INFO]: 📍 Environment: development  
+2026-06-15 21:11:33 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-15 21:11:33 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-15 21:11:33 [INFO]: 🏠 Root: http://localhost:5002/  
+2026-06-15 21:11:33 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-02.om0zmzi.mongodb.net  
+2026-06-15 21:18:27 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 21:18:27 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 21:18:27 [INFO]: 🌍 Frontend allowed: http://localhost:5173, http://localhost:3000, https://frontend-two-theta-39.vercel.app  
+2026-06-15 21:18:28 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-15 21:53:42 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 21:53:42 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 21:53:44 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-02.om0zmzi.mongodb.net  
+2026-06-15 21:54:13 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 21:54:13 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 21:54:14 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-02.om0zmzi.mongodb.net  
+2026-06-15 21:55:20 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 21:55:20 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 21:55:20 [INFO]: 📍 Environment: development  
+2026-06-15 21:55:20 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-15 21:55:20 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-15 21:55:20 [INFO]: 🏠 Root: http://localhost:5002/  
+2026-06-15 21:55:27 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-15 21:55:37 [INFO]: Shutting down gracefully...  
+2026-06-15 21:59:00 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 21:59:00 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 21:59:00 [INFO]: 📍 Environment: development  
+2026-06-15 21:59:00 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-15 21:59:00 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-15 21:59:00 [INFO]: 🏠 Root: http://localhost:5002/  
+2026-06-15 21:59:02 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-02.om0zmzi.mongodb.net  
+2026-06-15 21:59:39 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-15 21:59:39 [INFO]: 🚀 Server running on port 5002  
+2026-06-15 21:59:39 [INFO]: 📍 Environment: development  
+2026-06-15 21:59:39 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-15 21:59:39 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-15 21:59:39 [INFO]: 🏠 Root: http://localhost:5002/  
+2026-06-15 21:59:40 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-01.om0zmzi.mongodb.net  
+2026-06-16 06:14:50 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-16 06:14:50 [INFO]: 🚀 Server running on port 5002  
+2026-06-16 06:14:50 [INFO]: 📍 Environment: development  
+2026-06-16 06:14:50 [INFO]: 🔗 API available at: http://localhost:5002/api  
+2026-06-16 06:14:50 [INFO]: ❤️ Health check: http://localhost:5002/health  
+2026-06-16 06:14:50 [INFO]: 🏠 Root: http://localhost:5002/  
+2026-06-16 06:14:53 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-16 06:49:11 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-16 06:49:11 [INFO]: Server running on 5002  
+2026-06-16 06:49:12 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-16 06:57:03 [WARN]: MongoDB disconnected  
+2026-06-16 06:59:50 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-16 06:59:50 [INFO]: 🚀 Server running on port 5002  
+2026-06-16 06:59:50 [INFO]: 🌍 Frontend: http://localhost:3000  
+2026-06-16 06:59:51 [INFO]: MongoDB Atlas Connected: ac-nofaqzx-shard-00-00.om0zmzi.mongodb.net  
+2026-06-16 07:01:25 [WARN]: MongoDB disconnected  
+2026-06-25 11:23:06 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-25 11:23:06 [INFO]: 🚀 Server running on port 5002  
+2026-06-25 11:23:06 [INFO]: 🌍 Environment: development  
+2026-06-25 11:23:06 [INFO]: 🔗 API URL: http://localhost:5002/api  
+2026-06-25 11:23:06 [INFO]: 🌐 FRONTEND_URL: http://localhost:3000  
+2026-06-25 11:23:07 [INFO]: MongoDB Atlas Connected: ac-r10f5lh-shard-00-01.bom5obd.mongodb.net  
+2026-06-25 11:27:25 [ERROR]: Not Found - /auth/register
+Error: Not Found - /auth/register
+    at notFound (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\dist\middleware\error.middleware.js:10:19)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:286:9  
+2026-06-25 11:27:33 [ERROR]: Not Found - /auth/register
+Error: Not Found - /auth/register
+    at notFound (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\dist\middleware\error.middleware.js:10:19)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\body-parser\lib\types\urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:328:13)
+    at C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\express\lib\router\index.js:286:9  
+2026-06-25 11:29:21 [WARN]: MongoDB disconnected  
+2026-06-25 11:29:25 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-25 11:29:25 [INFO]: 🚀 Server running on port 5002  
+2026-06-25 11:29:25 [INFO]: 🌍 Environment: development  
+2026-06-25 11:29:25 [INFO]: 🔗 API URL: http://localhost:5002/api  
+2026-06-25 11:29:25 [INFO]: 🌐 FRONTEND_URL: http://localhost:3000  
+2026-06-25 11:29:28 [INFO]: MongoDB Atlas Connected: ac-r10f5lh-shard-00-02.bom5obd.mongodb.net  
+2026-06-25 11:30:44 [ERROR]: Registration error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60 
+Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+    at module.exports [as sign] (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\node_modules\jsonwebtoken\sign.js:213:22)
+    at AuthController.generateToken (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\dist\controllers\auth.controller.js:183:39)
+    at AuthController.register (C:\Users\Acer\Downloads\smart-finance-PaisaVedh-main\smart-finance-PaisaVedh-main\backend\dist\controllers\auth.controller.js:37:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5) 
+2026-06-25 11:31:49 [WARN]: MongoDB disconnected  
+2026-06-25 11:31:52 [INFO]: Mock Redis connected (in-memory storage)  
+2026-06-25 11:31:52 [INFO]: 🚀 Server running on port 5002  
+2026-06-25 11:31:52 [INFO]: 🌍 Environment: development  
+2026-06-25 11:31:53 [INFO]: 🔗 API URL: http://localhost:5002/api  
+2026-06-25 11:31:53 [INFO]: 🌐 FRONTEND_URL: http://localhost:3000  
+2026-06-25 11:31:56 [INFO]: MongoDB Atlas Connected: ac-r10f5lh-shard-00-00.bom5obd.mongodb.net  
+2026-06-25 11:34:39 [WARN]: MongoDB disconnected  
